@@ -6,3 +6,7 @@ The work for CS112. Thanks for Prof. Hou and SAs.
 ## Assignment 1
 
 > Video Link: https://pan.baidu.com/s/1Zs-WoOSiTIapYtlu5KvdWw?pwd=w3o7
+
+## Assignment 2
+
+> Video Link: https://pan.baidu.com/s/1I9WObDXqFgvH2yU-uXsH5w?pwd=58p2 
