@@ -10,3 +10,7 @@ The work for CS112. Thanks for Prof. Hou and SAs.
 ## Assignment 2
 
 > Video Link: https://pan.baidu.com/s/1I9WObDXqFgvH2yU-uXsH5w?pwd=58p2 
+
+## Quiz for Lab1
+
+> Video Link: https://pan.baidu.com/s/1e8xLO8-DMvzvzFnyvKxgRw?pwd=jzgd
