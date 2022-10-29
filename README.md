@@ -14,3 +14,7 @@ The work for CS112. Thanks for Prof. Hou and SAs.
 ## Quiz for Lab1
 
 > Video Link: https://pan.baidu.com/s/1e8xLO8-DMvzvzFnyvKxgRw?pwd=jzgd
+
+## Assignment 3
+
+> Video Link: https://pan.baidu.com/s/12tgIS0FZopp6HLh_z4UAlA?pwd=gjfk 
