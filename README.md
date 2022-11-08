@@ -18,3 +18,7 @@ The work for CS112. Thanks for Prof. Hou and SAs.
 ## Assignment 3
 
 > Video Link: https://pan.baidu.com/s/12tgIS0FZopp6HLh_z4UAlA?pwd=gjfk 
+
+## Assignment 4
+
+> No video available.
