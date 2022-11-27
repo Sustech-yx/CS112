@@ -1,0 +1,45 @@
+dictionary = dict()
+filepath = input()
+sp_name = input()
+
+enum_dic = {
+    './': ['README.txt'],
+    './bin': ['run_tests'],
+    './py_trace_event': [
+        'setup.py',
+        'trace_event.py',
+        'trace_event_unittest.py',
+        'trace_time.py',
+        'trace_time_unittest.py',
+        '__init__.py'
+    ],
+    './py_trace_event/trace_event_impl': [
+        'decorators.py',
+        'decorators_test.py',
+        'log.py',
+        'log_io_test.py',
+        'meta_class.py',
+        'multiprocessing_shim.py',
+        'parsed_trace_events.py',
+        'perfetto_proto_classes.py',
+        'perfetto_trace_writer.py',
+        'perfetto_trace_writer_unittest.py',
+        'trace_test.py',
+        '__init__.py',
+    ],
+    './third_party': [],
+    './third_party/protobuf': [
+        'encoder.py',
+        'README.chromium',
+        'wire_format.py'
+    ]
+}
+
+d = enum_dic[filepath]
+res = []
+for element in d:
+    if sp_name in element:
+        res.append(element)
+
+res = sorted(res)
+print('\n'.join(res), end='')
