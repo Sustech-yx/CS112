@@ -7,3 +7,4 @@ if len(res) < 4:
 while len(res) - 1 < 4:
     res += '0'
 print(res)
+# FILE MODIFY

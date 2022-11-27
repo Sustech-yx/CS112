@@ -9,3 +9,4 @@ for word in words:
     tmp = ''.join(sorted(word))
     ss.add(tmp)
 print(len(ss))
+# FILE MODIFY

@@ -3,7 +3,7 @@ import numpy as npy
 
 def check(mat):
     return npy.all(mat == mat.T)
-
+# FILE MODIFY
 
 n = int(input())
 arr1 = npy.zeros(shape=(n, n), dtype=npy.int64)

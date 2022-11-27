@@ -11,3 +11,4 @@ elif 0.4 < cnt / len(line) < 0.6:
     print('OK')
 else:
     print('GC too high')
+    # FILE MODIFY

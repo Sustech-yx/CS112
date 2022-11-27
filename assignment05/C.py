@@ -21,7 +21,7 @@ prim_list = genPrim(1009)
 # print(prim_list)
 fileName = input()
 # fileName = './TestFiles/C'
-
+# FILE MODIFY
 content = open(fileName, 'r').read()
 numbers = content.split(' ')
 # print(numbers)

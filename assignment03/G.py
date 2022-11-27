@@ -23,5 +23,5 @@ else:
     input()
     if h > 1:
         print(1)
-    else:
+    else: # FILE MODIFY
         print('IMPOSSIBLE')

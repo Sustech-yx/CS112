@@ -5,4 +5,4 @@ a, b, c = map(int, input().strip().split())
 if a + c > c and a + c > b and b + c > a:
     print(yes)
 else:
-    print(no_)
+    print(no_) # FILE MODIFY

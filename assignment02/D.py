@@ -12,3 +12,4 @@ s = score[idx]
 
 res = (student[idx], score[idx], gpa[idx], level[idx])
 print(res)
+# FILE MODIFY

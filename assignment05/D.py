@@ -3,7 +3,7 @@ import os
 dictionary = dict()
 filepath = input()
 sp_name = input()
-
+# FILE MODIFY
 res = []
 for root, dirs, files in os.walk(filepath, topdown=False):
     for name in files:

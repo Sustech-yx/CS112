@@ -16,3 +16,4 @@ with open(fileName, 'r') as file:
             res.append(line)
 
 print(''.join(res), end='')
+# FILE MODIFY
