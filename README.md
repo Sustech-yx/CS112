@@ -11,7 +11,7 @@ The work for CS112. Thanks for Prof. Hou and SAs.
 
 > Video Link: https://pan.baidu.com/s/1I9WObDXqFgvH2yU-uXsH5w?pwd=58p2 
 
-## Quiz for Lab1
+## Quiz01 for Lab1
 
 > Video Link: https://pan.baidu.com/s/1e8xLO8-DMvzvzFnyvKxgRw?pwd=jzgd
 
@@ -21,4 +21,12 @@ The work for CS112. Thanks for Prof. Hou and SAs.
 
 ## Assignment 4
 
+> Video Link: https://pan.baidu.com/s/18gVlM76PjnfhLfiYdWRolA?pwd=61r4 
+
+## Quiz02 for Lab1
+
 > No video available.
+
+## Assignment 5
+
+> Video Link: https://pan.baidu.com/s/1pRkzgnYjRfczWSwn2dC_IQ?pwd=woe4
