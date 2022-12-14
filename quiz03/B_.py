@@ -11,9 +11,14 @@ for i in range(n):
     mat[i][3] = mat[i][2] / mat[i][1]
 
 avg = npy.sum(mat, axis=0) / n
+foo = False
 for i in range(n):
     if mat[i][1] > avg[1] and mat[i][2] >= avg[2]:
+        foo = True
         print('{:s} {:.2f}'.format(str(int(mat[i][0])), mat[i][3] * 100))
+
+if not foo:
+    print('None')
 
 # 3
 # 1 100 90
