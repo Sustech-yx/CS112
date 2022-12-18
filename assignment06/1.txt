@@ -1,0 +1,6 @@
+    geneid	gene	microbes	p_value	label
+0   gene1	A1BG	Saccharibacter	0.005	True
+1   gene2	A1BG	Whispovirus	0.002	True
+2   gene3	A2M	Chitinivibrio	0.003	False
+3   gene4	A2M	Sutterella	0.051	False
+4   gene5	A2ML1	Campylobacter	0.311	False
