@@ -30,3 +30,11 @@ The work for CS112. Thanks for Prof. Hou and SAs.
 ## Assignment 5
 
 > Video Link: https://pan.baidu.com/s/1pRkzgnYjRfczWSwn2dC_IQ?pwd=woe4
+
+## Quiz03 for Lab1
+
+> No video available.
+
+## Assignment 6
+
+> No video available.
